@@ -1,0 +1,26 @@
+{
+  "name": "nice-open",
+  "version": "1.0.0",
+  "description": "Open a url on any platform.",
+  "main": "open.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdb-alcorn/nice-open.git"
+  },
+  "keywords": [
+    "open",
+    "url"
+  ],
+  "author": "Tom Alcorn <tdb.alcorn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tdb-alcorn/nice-open/issues"
+  },
+  "homepage": "https://github.com/tdb-alcorn/nice-open#readme",
+  "dependencies": {
+    "nice-logger": "^1.0.0"
+  }
+}
